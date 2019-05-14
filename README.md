@@ -6,8 +6,8 @@
 ### Author: Chris Kozlowski
 
 ### Links and Resources
-* [Submission PR](http://xyz.com)
-* [Travis](http://xyz.com)
+* [Submission PR](https://github.com/401-advanced-javascript-cdk/lab01-node-ecosystem/blob/lab01/README.md)
+* [Travis](https://travis-ci.com/401-advanced-javascript-cdk/lab01-node-ecosystem)
 
 ### Modules
 
@@ -40,5 +40,5 @@ Accepts two integers.  Returns the division of the values.
 * Assertions for arithmetic.js
   * Accepts numbers
   * Rejects non-numbers
-  * Accepts array of numbers (expcept .divide)
+  * Accepts array of numbers (except .divide)
   * Rejects dividing by 0
