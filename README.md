@@ -6,7 +6,7 @@
 ### Author: Chris Kozlowski
 
 ### Links and Resources
-* [Submission PR](https://github.com/401-advanced-javascript-cdk/lab01-node-ecosystem/blob/lab01/README.md)
+* [GitHub PR](https://github.com/401-advanced-javascript-cdk/lab01-node-ecosystem/pull/1)
 * [Travis](https://travis-ci.com/401-advanced-javascript-cdk/lab01-node-ecosystem)
 
 ### Modules
