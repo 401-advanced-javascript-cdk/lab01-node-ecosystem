@@ -4,6 +4,7 @@
   "description": "this will be sooooo cool",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint **/*.js",
     "test": "jest --coverage --verbose --color"
   },
   "author": "",
